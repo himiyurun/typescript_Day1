@@ -1,2 +1,2 @@
 # typescript_Day1
-💩
+### 💩
